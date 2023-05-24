@@ -1,6 +1,6 @@
-p {color: red}
-header {text-align: center;}
-nav {background-color: orange;}
+nav {background-color: orange;text-align: center;}
+main, img {width:100%}
+h1 {text-align: center;}
 .title5 {font-size: large;}
 .section {font-size: larger;}
 hr {
@@ -9,4 +9,5 @@ hr {
     background-color: #098fc4;
     border: none;
  }
- .container{align-items: center; margin-left: 300px; margin-right: 300px ;}
+ .container{align-items: center; width: 50vw; margin-right: auto; margin-left: auto;}
+ header {align-items: center; width:50%}

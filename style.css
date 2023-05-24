@@ -3,3 +3,9 @@ header {text-align: center;}
 nav {background-color: orange;}
 .title5 {font-size: large;}
 .section {font-size: larger;}
+hr {
+    width: 20vw;
+    height: 1px;
+    background-color: #098fc4;
+    border: none;
+ }
